@@ -1,0 +1,31 @@
+{
+  "name": "@mordelonjs/react-source",
+  "version": "0.0.1",
+  "description": "Component Source for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mordelonjs/react-source.git"
+  },
+  "keywords": [
+    "react",
+    "mordelonjs",
+    "component",
+    "source",
+    "datasource",
+    "binding"
+  ],
+  "author": "cristian.nieto.101",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mordelonjs/react-source/issues"
+  },
+  "homepage": "https://github.com/mordelonjs/react-source#readme",
+  "dependencies": {
+    "mordelon-js": "0.0.10",
+    "preact": "^10.0.5"
+  }
+}
