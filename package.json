@@ -18,7 +18,10 @@
     "datasource",
     "binding"
   ],
-  "author": "cristian.nieto.101",
+  "authors": [
+    "Cristian Nieto <cristian.nieto.101@gmail.com>",
+    "Carlos Martinez <mtz677@gmail.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mordelonjs/react-source/issues"
