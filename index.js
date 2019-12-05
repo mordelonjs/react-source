@@ -1,7 +1,7 @@
-import {Component} from "react";
+import React from "preact/compat";
 import Mordelon from "mordelon-js";
 
-export default class Source extends Component {
+export default class Source extends React.Component {
 
     constructor(props) {
         super(props);
